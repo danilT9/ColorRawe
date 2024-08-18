@@ -64,7 +64,7 @@ header {
 
 
 .mainimg {
-    background-image: url("/imgs/main/main_back.svg");
+    background-image: url("./imgs/main/main_back.svg");
     display: flex;
     width: 1440px;
     height: 858px;
