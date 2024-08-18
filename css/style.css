@@ -64,7 +64,7 @@ header {
 
 
 .mainimg {
-    background-image: url("./imgs/main/main_back.svg");
+    background-image: url("../imgs/main/main_back.svg");
     display: flex;
     width: 1440px;
     height: 858px;
@@ -133,7 +133,7 @@ header {
 
 .benefits {
     display: flex;
-    background-image: url("/imgs/benefits/benefits_back.svg");
+    background-image: url("../imgs/benefits/benefits_back.svg");
     width: 1440px;
     height: 606px;
     justify-content: center;
@@ -166,7 +166,7 @@ header {
 }
 
 .reviews {
-    background-image: url("/imgs/reviews/reviews_back.svg");
+    background-image: url("../imgs/reviews/reviews_back.svg");
     width: 1440px;
     height: 520px;
     margin-left: -1440px;
@@ -193,7 +193,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("/imgs/order/order_back.svg");
+    background-image: url("../imgs/order/order_back.svg");
     width: 1440px;
     height: 509px;
     margin-left: -1440px;
